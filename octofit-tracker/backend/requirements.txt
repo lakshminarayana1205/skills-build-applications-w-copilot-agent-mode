@@ -1,0 +1,2 @@
+# Backend dependencies
+Django>=3.2,<4.0
